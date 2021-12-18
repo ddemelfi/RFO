@@ -1,0 +1,2 @@
+# Restaurant_File_Organizer
+The Restaurant Organizer was a project assigned in class for reading in a file of Restaurants following a specific format for the name, city location, the categories, the open times, the cost and the rank. Essentially, this organizer will allow user actions of creating and deleting restaurants, searching for restaurants, and writing to files. This project makes use of a self-created Binary Tree, Array List and Linked List in C. 
